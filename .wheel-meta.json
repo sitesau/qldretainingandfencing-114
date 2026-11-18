@@ -1,0 +1,22 @@
+{
+  "wheel_id": 924,
+  "structure": "umbrella",
+  "slug": "qldretainingandfencing-114",
+  "project": "retaining-wall-installers-brisbane-budget-tips-06f9fc1f1286b38e",
+  "parent_t1_ref": "qldretainingandfencing-156",
+  "node_role": "feeder",
+  "money_target": "qldretainingandfencing.com.au",
+  "primary_kw": "retaining wall installers brisbane budget tips",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-installers-brisbane-budget-tips-06f9fc1f1286b38e/",
+  "tier": "T2",
+  "writeback_nonce": "2f3e62afd8cf45b2",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/qldretainingandfencing-156/",
+      "anchor": "more on retaining wall installers brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
